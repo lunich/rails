@@ -159,6 +159,11 @@ and
 [remove_foreign_key](http://api.rubyonrails.org/v4.2.0/classes/ActiveRecord/ConnectionAdapters/SchemaStatements.html#method-i-remove_foreign_key)
 for a full description.
 
+Security
+--------
+
+We have some old pull-request with a lot of security fixes https://github.com/RushPlay/casino-saga/pull/1077
+It's closed for now but we still need to apply it one day.
 
 Incompatibilities
 -----------------
